@@ -1,7 +1,7 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "Kaiko kairo",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by None people",
   "main": "Cyber.js",
   "engines": {
       "node": "20.x",
@@ -19,15 +19,15 @@
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "Evensproject",
       "messenger",
       "javasvript",
-      "ullash",
-      "cyberullash",
-      "cyberRajib ",
-      "islamick chat bot"
+      "Even",
+      "kairo",
+      "kaiko",
+      "Kaiko kairo"
   ],
-  "author": "Ullash ッ",
+  "author": "Even ッ",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
